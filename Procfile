@@ -1,1 +1,1 @@
-worker: src/main/java/Main/MrGoat.java
+worker: src\main\java\Main\MrGoat.java
